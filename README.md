@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**norteloco/norteloco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет, меня зовут Дмитрий.  
+Я администратор и DevOps-специалист.
+Здесь Я публикую свои проекты, в которых пытаюсь изучить что-то новое для себя.
+  
+## Инструменты и навыки 🛠️
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-Here are some ideas to get you started:
+## Мои задачи на ближайшее время 🚧
+* ✅ Придумать свой проект
+* ✅ Разработать свой проект
+* ✅ Улучшить разработанный проект
+* ➡️ Продолжать развитие
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Как со мной связаться 📡
+
+<a href="https://t.me/norteloco">
+  <img align="left" alt="telegram" height="50" src="https://norteloco.github.io/img/telegram-outline.svg" />
+</a>
+
